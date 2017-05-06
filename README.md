@@ -1,10 +1,10 @@
-# cedrickchee.com
+# Cedric Chee Website Source Code
 
 [![Build Status](https://travis-ci.org/cedrickchee/cedrickchee.github.io.png?branch=master)](https://travis-ci.org/cedrickchee/cedrickchee.github.io)
 
-The personal website of Cedric Chee. Built using GitHub Pages, Jekyll and Bootstrap. See [humans.txt](http://cedrickchee.com/humans.txt) for more infos.
+Source for my personal website and blog. Built using Jekyll, React, JavaScript (ES6), Webpack, GitHub Pages and Travis CI.
 
 ## License
 
-* Content: [Creative Commons, BY](http://creativecommons.org/licenses/by/3.0/)
+* Content: [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 * Code: [MIT](http://opensource.org/licenses/mit-license.php)
